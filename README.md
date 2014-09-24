@@ -4,7 +4,7 @@ This library contains two scripts that help you easily export your Mixpanel funn
 
 ### Preparing your funnel export
 
-Make sure you update the files with your specific variables, i.e. API key/secret, funnel parameters, output table labels, 
+Make sure you update the files with your specific variables, i.e. API key/secret, output file name, funnel parameters and output table labels.
 
 ### Running your funnel export
 
